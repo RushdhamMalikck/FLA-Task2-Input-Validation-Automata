@@ -2,7 +2,7 @@
 
 **Course:** 21CSC301T Formal Language and Automata, CLA-2, Assessment Task 2
 **Student:** Rushdham Malik C K ([RA2411026050221]), B.Tech CSE (AI & ML), III year
-**Faculty:** Dr. C. Gunasundari, SRM IST Tiruchirappalli
+**Faculty:** Dr. C. Gunasundari
 
 This repo has finite automata for three input checks that every sign-up or booking form needs:
 
